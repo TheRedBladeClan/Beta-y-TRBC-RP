@@ -99,16 +99,13 @@
 
 -No se pueden meter a una mafia y salirse al segundo solo para ver que cosas tienen y ya
 
-
 # REGLAS DE COSAS ILEG4L3S #
-
 
 **INSTRUCCIONES PARA VENDEDORES DE DROGAS**
 -Para comenzar a vender droga deben de comprar, el precio de las drogas están en la tienda, pero lo deben comprar simbólicamente en el cartel de vinewood o en el aserradero, cuando esten alli compran las drogas directamente de la tienda.
 -Para comenzar a vender, deben de hacerlo en las zonas indicadas, la cocaína en el grove street, al sur de los santos, deben ir a pie por cinco minutos por cada 50g, antes deben avisar a la policías, los mismo con la marihuana desde el puerto y todo vespucci pero con solo 3 minutos de espera.
 
 **INSTRUCCIONES PARA VENDER ARMAS**
--
 
 
 **Para robos: Los límites de armas son para policias**
