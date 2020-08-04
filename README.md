@@ -93,6 +93,9 @@
 
 44.**RESPECTO A LAS MAFIAS**
 -MAXIMO DE INTEGRANTES 4
+
 -No se puede estar haciendo solicitudes a mafias por privado, solo hablarlo dentro de rol (SE LLAMA ROLEAR) 
+
 -Entre Mafias solo se pueden hacer alianzas y ya
+
 -No se pueden meter a una mafia y salirse al segundo solo para ver que cosas tienen y ya
