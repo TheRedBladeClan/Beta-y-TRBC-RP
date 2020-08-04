@@ -100,7 +100,7 @@
 -No se pueden meter a una mafia y salirse al segundo solo para ver que cosas tienen y ya
 
 
-# REGLAS DE COSAS ILEG4L3S
+# REGLAS DE COSAS ILEG4L3S #
 
 
 **INSTRUCCIONES PARA VENDEDORES DE DROGAS**
