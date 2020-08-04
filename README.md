@@ -1,6 +1,5 @@
-# RedBladeRP
+# REGLAS GENERALES
 
-**REGLAS GENERALES**
 1. Los EMS podrán atender a si no estemos en sesion pero solo cuando los enfermos son trasladados al hospital y escribimos por discord o por un chat de voz.
 
 2. Valorar la vida propia: Si te apuntan primero no puedes hacer nada porque atentas contra tu vida si haces un movimiento en falso.
