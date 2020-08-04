@@ -107,7 +107,6 @@
 
 **INSTRUCCIONES PARA VENDER ARMAS**
 
-
 **Para robos: Los límites de armas son para policias**
 -Venta de cocaína: 2500 por cada 50 g (1 Policía a 2) Se puede usar pistolas.
 
