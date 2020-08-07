@@ -100,4 +100,4 @@
 -No se pueden meter a una mafia y salirse al segundo solo para ver que cosas tienen y ya
 
 
-[# REGLAS DE COSAS ILEG4L3S :gun: #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG2/)
+[# REGLAS DE COSAS ILEG4L3S #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG2/)
