@@ -39,3 +39,6 @@ Si añades a alguien a tu mafia fuera de rol **SE CANCELA TU MAFIA**
 Si perteneces a mas de una mafia o se te da warn o si eres lider de alguna **SE CANCELA TU MAFIA**
 
 Si te metes a una mafia solo para ver lo que tienen y usarlo a tu favor se te dara warn
+
+Si inicias tu mafia sin recibir la aprobacion de un admin **SE CANCELA TU MAFIA**
+
