@@ -33,6 +33,9 @@ Puntos de venta:
 
 # REGLAS POR LA CUAL PUEDE LLEGAR A SER DESECHA O CANCELADA TU MAFIA
 Si superas la cantidad maxima de 4 integrantes **SE CANCELA TU MAFIA**
+
 Si añades a alguien a tu mafia fuera de rol **SE CANCELA TU MAFIA**
+
 Si perteneces a mas de una mafia o se te da warn o si eres lider de alguna **SE CANCELA TU MAFIA**
+
 Si te metes a una mafia solo para ver lo que tienen y usarlo a tu favor se te dara warn
