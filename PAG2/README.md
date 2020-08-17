@@ -74,3 +74,6 @@
 2.14.19. Mecanicos - Mejoras: Los mecanicos pueden solicitar propinas no mayores a 200 por sus servicios.
 
 2.14.20. Mecanicos - Mascotas: Si una mascota es herida dentro de la zona, los mecanicos pueden tomar actitud Hostil. (no armas de fuego)
+
+
+[# SANCIONES #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG3/)
