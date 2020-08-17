@@ -76,4 +76,4 @@
 2.14.20. Mecanicos - Mascotas: Si una mascota es herida dentro de la zona, los mecanicos pueden tomar actitud Hostil. (no armas de fuego)
 
 
-[# SANCIONES #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG3/)
+[# PAG3 SANCIONES #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG3/)
