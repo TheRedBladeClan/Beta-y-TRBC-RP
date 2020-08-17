@@ -51,4 +51,4 @@
 
 1.24. Comandos Prohibidos: los comandos como everyone, addmoney, o similares, estan prohibidos. solo permitidos para VIP,Moderadores y administradores.
 
-[# ROLEPLAY GTA ONLINE #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG2/)
+[# PAG2 ROLEPLAY GTA ONLINE #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG2/)
