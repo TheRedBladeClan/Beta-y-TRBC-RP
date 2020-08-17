@@ -1,103 +1,54 @@
 # REGLAS GENERALES
 
-1. Los EMS podrán atender a si no estemos en sesion pero solo cuando los enfermos son trasladados al hospital y escribimos por discord o por un chat de voz.
+1.1. Integracion al servidor: Se deben leer las reglas, explicacion y comandos para el manejo funcional del Roleplay.
 
-2. Valorar la vida propia: Si te apuntan primero no puedes hacer nada porque atentas contra tu vida si haces un movimiento en falso.
+1.2. DNI: La Dni es la creacion de tu personaje.
 
-3. No se podrá aprovechar de ningún bug para beneficio propio.
+1.3. Nombre: El usuario debe colocar su nombre de personaje y la ID PSN en su nombre. ejemplo: Pablo (robotx18)
 
-4. Quedan prohibidas las faltas de respeto.
+1.4. Canales de Voz: Los canales de voz se deben respetar.
+1.4.1. Canales de Voz, Civil: se utilizan para hablar, si estas cerca de alguien debes entrar en su canal de voz
+1.4.2. Canales de voz, Trabajos: Si estas trabajando puedes entrar en este chat. Si no tienes el rol del trabajo, solo puedes entrar al chat si estar cerca de alguno de las centrales de trabajo.
+1.4.3. Canal de voz, Negociacion: Solo se utiliza para las negociaciones.
 
-5. Si la policía te abate (matar para el gta v normal) o te quedas en el lugar que apareciste o vuelves a la zona donde te abatieron.
+1.5. Chats: Todos los chats tienen una finalidad especifica. se cuentan con distintos chats para representar las acciones de nuestro personaje o charlar con otros usuarios. 
 
-6. Solo pueden portar las armas que compren en rol. ES DECIR EN DISCORD
+1.6. Compras: Las compras son realizadas dentro del Discord
 
-7. No pueden hacer ilegalidades en zonas seguras. (Hospitales, Zona de Mecanicos, comisarías)
+1.7. Modders: toda persona con Mods, debe anunciar que los posee ante un VIP,Moderador o Administrador.
 
-8. El dinero que se usará para todas TODAS tus compras serán por discord
+1.8. Dinero: Solo puedes revizar tu propio balance.
 
-9. No hablar si no estas cerca del jugador
+1.9. MiniMapa: debe ser desactivado al entrar al Roleplay en GTA Online.
 
-10. Los que tengan mod menu solo van a quitar la policia SI ESTAN AUTORIZADOS, cualquier otra cosa debe ser aprobada por los administradores o sera sancionado
+1.10. Bugs: deben ser evitados, no se pueden aprovechar sin la autorizacion de un Administrador.
 
-11. Las ilegalidades se deben poner en entorno con ESPECIFICACIONES
+1.11. Tienda: las compras de tiendas deben ser realizadas dentro de las tiendas del servidor RolePlay en GTA online.
 
-12. No se puede revisar el balance del jugador ni su inventario, sólo policías dentro de rol o admins y moderadores
+1.12. Derechos: Todos los jugadores tienen derecho a ser juzgados.
 
-13. Si escuchas decir a un oficial <<Do: arrest>> quedaras como si te hubieran esposado
+1.13. Acoso y Violencia: estan prohibidos todo acto de acoso o actos sexuales dentro del roleplay.
 
-14. Si te detienen serás procesado y recibirás una multa o tiempo de cárcel si no tienes dinero o no deseas pagarlo
+1.14. Realismo: Se lo mas realista posible para el disfrute del RolePLay
 
-15. DESACTIVAR el minimapa, prohibido usar el start. Para la tienda solo pueden haber 2 atracadores
+1.15. Historia: realizar una historia para tu personaje y enviarla a un admin o moderador. ni muy larga ni muy breve.
 
-33. No hay que preguntar poli dispo para drogas, solo entorno
+1.16. Radar: No se puede poner la opcion "fuera de radar".
 
-34. Usar minimapa conllevara a un ban indefinido
+1.17. Evitar PowerGaming: entiendase como PowerGaming o PG, cualquier accion que sobrepase lo real o una situacion que force una situacion de rol o acciones de otras personas. 
 
-16. Prohibido poner everyone. Sol admins o Vips para llamar al rol
+1.18. Evitar MetaGaming: Entiendase como MetaGaming o MG, trasladar cualquier tipo de informacion Fuera de Personaje (OOC), Al terreno dentro de personaje (IC), o informacion del personaje adquirida fuera del Roleplay que altere una situacion. 
 
-17. Los EMS podrán atender a si no estemos en sesion pero solo cuando los enfermos son trasladados al hospital y escribimos por discord o por un chat de voz
+1.19. Claridad al Hablar: se debe hablar o expresar de manera clara y entendible para los demas usuarios, sea en los chats o los chats de voz.
 
-18. Los policías pueden ser corruptos, pero será castigado con CK
+1.20. Evitar Deathmatch: se debe evitar los Deathmatch sin motivo, entiendase como Deathmatch una actitud agresiva sin control que implique abatimientos sin bases previas a realizarlo.
 
-19. Las cosas de las tiendas se deberan comprar dentro de rol, si son legales en un badulaque, si son ilegales en el cartel de vinewood
+1.21. PK parcial y total: al ser abatidos en una situacion muy concreta, esto puede generar una perdida de memoria, sea parcial (perdida de memoria en situacion concreta) o total (perdida de memoria a gran escala, perdiendo memoria del personaje), entiendase que estos casos son en momentos especificos, sea accidentes de gran magnitud con buen rol, despidos de bandas, secuestros, entre otros casos.
 
-20. No puede haber dos transportes al mismo sitio en el mismo día
+1.22. Character Kill CK: Entendamos como CK la eliminacion total de nuestro personaje. sea por reiniciar como otra persona o al recibir una herida mortal en un rol. los administradores o moderadores deben tener conocimiento del CK.
 
-21. Cuando termines de vender 50 g  gramos de drogas se pone el comando: /use coca
+1.23. No forzar ROL: no se debe forzar crear un roleo. ejemplo: explotando vehiculos, causando PK o Ck sin motivos a otros usuarios, entre otros.
 
-22. Por delitos leves no se puede disparar a los policías
-
-23. Jugar en hora DE ROL esta prohibido
-
-24. No robar a usuarios nuevos hasta luego de 5 DIAS para que se puedan adaptar correctamente
-
-25. La lectura de derechos debe efectuarse antes de entrar en comisaría, se puede leer dentro de la parte trasera en caso de emergencia. En caso de que no se efectúe la multa o tiempo será disminuido en su 50%
-
-26. Después de 3 infracciones con un mismo vehículo se procederá a mandar al deposito indefinidamente y no se podra pagar
-
-27. Deben poner el nombre de su personaje de roleplay y seguido su nombre de la PSN entre parentesis EJEMPLO: Axel Cartalan (AlexGWM17)
-
-28. Solo se puede tener un trabajo por persona, si quieres tener 2 debes consultarlo con los administradores para ver la naturaleza de ambos
-
-29. Si el semáforo está rojo esperas 3 segundos y luego puedes pasar si no arriesgas la vida de un civil
-
-30. Se prohiben las violaciones, o actos sexuales de todo tipo
-
-31. De momento los secuestros que NO sean para tiendas no estaran permitidos
-
-32. Para la tienda solo pueden haber 2 atracadores
-
-33. No hay que preguntar poli dispo para drog4s, solo entorno
-
-34. Para evitar el metagaming ahora debe de sacarse la opción de los nombre, abres el mapa en una sesión de GTA V online, pones la opción de GTA V, vas a opciones o configuraciones, y cambias la antepenúltima opción a no ver nombre de los jugadores, así no te aparecera el nombre arriba del jugador
-
-35. Cuando se haga un robo a usuario le puedes robar todo lo que tenga encima, pero si le vas a robar al banco cuenta como robo al banco
-
-36. Los coches al comprarlos de agencia original pierden un 20% de su valor
-
-37. Todos los reportes se veran despues del rol y por escrito
-
-38. La venta de autos legales son con los mecanicos
-
-39. El hospital principal será el del sur de los santos
-
-40. Hacer demasiadas menciónes sin ser moderador, admin o vip sera razon de warn, es igual que un everyone
-
-41. La utilización de chalecos antibalas o cascos antibalas para aquellos que no sean policías no es posible, tanto visible como no visible
-
-42. Si tienes un caso fuera de personaje inventa cualquier cosa con tu personaje para rolear una cosa fuera de personaje sin salir de personaje. Ejemplo: ooc te tiene que ir a tomar agua, en personaje dices, me llaman al movil, un segundo
-
-43. Si se tiene que salir de rol por alguna razón que no se diga por voz, que se diga por el chat de la #☁-nube-☁
-
-44.**RESPECTO A LAS MAFIAS**
--MAXIMO DE INTEGRANTES 4
-
--No se puede estar haciendo solicitudes a mafias por privado, solo hablarlo dentro de rol (SE LLAMA ROLEAR) 
-
--Entre Mafias solo se pueden hacer alianzas y ya
-
--No se pueden meter a una mafia y salirse al segundo solo para ver que cosas tienen y ya
-
+1.24. Comandos Prohibidos: los comandos como everyone, addmoney, o similares, estan prohibidos. solo permitidos para VIP,Moderadores y administradores.
 
 [# REGLAS DE COSAS ILEG4L3S #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG2/)
