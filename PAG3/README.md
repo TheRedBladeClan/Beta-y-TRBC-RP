@@ -1,47 +1,48 @@
-# Introduccion
+# Motivos de WARN o Bans temporales o permanentes
 
-Vamos a necesitar que tengas una idea clara y concisa de lo que quieres hacer con tu familia. Recuerda que estas no pueden ser legales o justicieros 
+los warn o baneos ahora se colocaran "/warn o ban, usuario incumplimiento de (numero de la regla)(nombre de regla)
+ejemplo /warn @PapiChiavez incumplimiento #3.7.2 Vocabulario ofensivo.
 
-Una vez que tengas en tu mente qué vas a crear, lo que debes hacer es crear un archivo para mandarlo a un admin. En dicho archivo deberás de colocar el nombre de tu pandilla/mafia.
+3.1. REPORTES: toda acusacion de falta a una regla, debe ser enviada al chat de reportes con el comando de /@report acusado, regla incumplida. "breve descripcion de como sucedio".
 
-**Puntos a tener en cuenta**
+3.2. Caso Abierto: se retira un warn bajo la aceptacion del usuario con la posibilidad de que pueda recibir 2 warn por incumpliento a su palabra.
 
-1- Historia realista y atractiva, que incluya de alguna forma a los personajes. Si creas una familia basada en la realidad y copias texto de otro foro/web será borrado permanentemente.
+3.3. Juicios: Los juicios deben ser llevados de la manera mas imparcial posible.
 
-2- Debes tener hecha la historia de tu personaje para poder tener la condicion de ser aceptado. Si tienes la historia de tu personaje debes mandar otro archivo para comprobar que esta hecha
+3.4. Warn: Un warn es un llamado de atencion que se le realiza a los usuarios que incumplen una regla o realizan un acto de warn automatico.
 
-3- Debes incluir la imagen que representara tu mafia
+3.5. Ban temporal: si un usuario tiene 3 warn, este llevara un baneo temporal de 2 dias.
 
-4- Cuanto mejor este presentada tu plantilla mas probabilidad tendras de ser aceptado
+3.6. Ban permanente: ban permanente a un usuario.
 
-# EJEMPLOS PARA LA PLANTILLA DE TU MAFIA
+3.7. WARNS O BANEOS.
 
-**Logo de la mafia**
+3.7.1. Incumplimientos: incumplir una regla puede ser motivo de un warn o baneo dependiendo de cual de estas sea.
 
-Nombre para la mafia:
+3.7.2. Vocabulario ofensivo: El continuo uso de malas palabras es considerado luego de 3 llamados de atencion, por 1 Warn por lenguaje ofensivo.
 
-Lider de la mafia:
+3.7.3. Insultos OOC: El lenguaje despectivo hacia un usuario de manera personal, es considerado una falta leve. si ambas partes no concuerdan aceptar disculpas mutua. sera 1 warn a la persona que ofendio.
 
-Vestimenta que tendra la mafia:
+3.7.4. Acoso: El acoso puede ser sexual o acoso continuo, esto es escribir constantemente por Mensaje directo o incomodando al otro usuario. es 1 warn.
 
-Reglas de la mafia:
+3.7.5. Abuso sexual: El abuso sexual en roleplay o discord hacia un jugador es motivo de warn.
 
-Cosas que venderan (solo si lo desean):
+3.7.6. Discriminacion: discriminar a una persona por su edad, genero, religion o raza, es motivo de 1 o 2 warn. dependiendo el caso.
 
-Puntos de venta:
+3.7.7. acto MG: realizar un acto de MetaGaming es considerado 1 warn.
 
+3.7.8. Acto PG: realizar un acto de powergaming considerado 1 warn.
 
+3.7.9. karma : insistir un CK hacia otro jugador es un 1 warn y posible CK. 
 
-# REGLAS POR LA CUAL PUEDE LLEGAR A SER DESECHA O CANCELADA TU MAFIA
-Si superas la cantidad maxima de 4 integrantes **SE CANCELA TU MAFIA**
+3.7.10. Minimapa: el uso de minimapa esta prohibido, si se consiguen pruebas es un warn.
 
-Si añades a alguien a tu mafia fuera de rol **SE CANCELA TU MAFIA**
+3.7.11. Comandos prohibidos: 1 warn.
 
-Si perteneces a mas de una mafia o se te da warn o si eres lider de alguna **SE CANCELA TU MAFIA**
+3.7.12. Menciones masivas: realizar muchas menciones de un jugador o varios es considerado un Everyone, 1 warn.
 
-Si te metes a una mafia solo para ver lo que tienen y usarlo a tu favor se te dara warn
+3.7.13. reportes falsos: realizar un reporte falso, es equivalente a 1 warn.
 
-Si inicias tu mafia sin recibir la aprobacion de un admin **SE CANCELA TU MAFIA**
+3.7.14. Publicidad: realizar publicidad de otros servidores o paginas no solicitadas, es equivalente a un Ban.
 
-Si tu personaje no tiene una historia **NO SE ACEPTARA TU MAFIA**
-
+3.7.15. Mal uso de canales: se recalca que utilizar mal los canales es equivalente a un Warn.
