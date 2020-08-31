@@ -1,6 +1,5 @@
 # REGLAS GENERALES
 
-REGLAS GENERALES
 
 1.1. Integracion al servidor: Se deben leer las reglas, explicacion y comandos para el manejo funcional del Roleplay.
 
