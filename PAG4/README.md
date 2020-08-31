@@ -40,3 +40,6 @@ EJEMPLO:
 ---------------------------------
 
 @/Ooc Es para comentar FUERA DE ROL, esto no necesita un ejemplo
+
+
+[# VUELTA AL INDICE #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG00/)
