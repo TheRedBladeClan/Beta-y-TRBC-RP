@@ -50,3 +50,7 @@ los warn o baneos ahora se colocaran “/warn o ban, “usuario” incumplimient
 3.7.15. Mal uso de canales: se recalca que utilizar mal los canales es equivalente a un Warn.
 
 3.7.16. AntiRol: se confirma que la actitud antiRol es castigada por 1 warn.
+
+
+
+[# PAG4 EXPLICACIONES #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG4/)
