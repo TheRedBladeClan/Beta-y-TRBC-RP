@@ -1,17 +1,22 @@
 # REGLAS GENERALES
 
+REGLAS GENERALES
+
 1.1. Integracion al servidor: Se deben leer las reglas, explicacion y comandos para el manejo funcional del Roleplay.
 
 1.2. DNI: La Dni es la creacion de tu personaje.
 
 1.3. Nombre: El usuario debe colocar su nombre de personaje y la ID PSN en su nombre. ejemplo: Pablo (robotx18)
 
-1.4. Canales de Voz: Los canales de voz se deben respetar.
-1.4.1. Canales de Voz, Civil: se utilizan para hablar, si estas cerca de alguien debes entrar en su canal de voz
-1.4.2. Canales de voz, Trabajos: Si estas trabajando puedes entrar en este chat. Si no tienes el rol del trabajo, solo puedes entrar al chat si estar cerca de alguno de las centrales de trabajo.
-1.4.3. Canal de voz, Negociacion: Solo se utiliza para las negociaciones.
+1.4. Canales de Voz: Los canales de voz se deben respetar. 
 
-1.5. Chats: Todos los chats tienen una finalidad especifica. se cuentan con distintos chats para representar las acciones de nuestro personaje o charlar con otros usuarios. 
+• 1.4.1. Canales de Voz, Civil: se utilizan para hablar, si estas cerca de alguien debes entrar en su canal de voz 
+
+• 1.4.2. Canales de voz, Trabajos: Si estas trabajando puedes entrar en este chat. Si no tienes el rol del trabajo, solo puedes entrar al chat si estar cerca de alguno de las centrales de trabajo. 
+
+• 1.4.3. Canal de voz, Negociacion: Solo se utiliza para las negociaciones.
+
+1.5. Chats: Todos los chats tienen una finalidad especifica. se cuentan con distintos chats para representar las acciones de nuestro personaje o charlar con otros usuarios.
 
 1.6. Compras: Las compras son realizadas dentro del Discord
 
@@ -27,17 +32,16 @@
 
 1.12. Derechos: Todos los jugadores tienen derecho a ser juzgados.
 
-1.13. Acoso y Violencia: estan prohibidos todo acto de acoso o actos sexuales dentro del roleplay.
+1.13. Acoso y Violencia: estan prohibidos todo acto de acoso o actos sexuales dentro del servidor (Discord y GTA Online).
 
 1.14. Realismo: Se lo mas realista posible para el disfrute del RolePLay
-
 1.15. Historia: realizar una historia para tu personaje y enviarla a un admin o moderador. ni muy larga ni muy breve.
 
-1.16. Radar: No se puede poner la opcion "fuera de radar".
+1.16. Radar: No se puede poner la opcion “fuera de radar”.
 
-1.17. Evitar PowerGaming: entiendase como PowerGaming o PG, cualquier accion que sobrepase lo real o una situacion que force una situacion de rol o acciones de otras personas. 
+1.17. Evitar PowerGaming: entiendase como PowerGaming o PG, cualquier accion que sobrepase lo real o una situacion que force una situacion de rol o acciones de otras personas.
 
-1.18. Evitar MetaGaming: Entiendase como MetaGaming o MG, trasladar cualquier tipo de informacion Fuera de Personaje (OOC), Al terreno dentro de personaje (IC), o informacion del personaje adquirida fuera del Roleplay que altere una situacion. 
+1.18. Evitar MetaGaming: Entiendase como MetaGaming o MG, trasladar cualquier tipo de informacion Fuera de Personaje (OOC), Al terreno dentro de personaje (IC), o informacion del personaje adquirida fuera del Roleplay que altere una situacion.
 
 1.19. Claridad al Hablar: se debe hablar o expresar de manera clara y entendible para los demas usuarios, sea en los chats o los chats de voz.
 
