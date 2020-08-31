@@ -1,9 +1,12 @@
 # Motivos de WARN o Bans temporales o permanentes
 
-los warn o baneos ahora se colocaran "/warn o ban, usuario incumplimiento de (numero de la regla)(nombre de regla)
-ejemplo /warn @PapiChiavez incumplimiento #3.7.2 Vocabulario ofensivo.
+Motivos de WARN o Bans 
 
-3.1. REPORTES: toda acusacion de falta a una regla, debe ser enviada al chat de reportes con el comando de /@report acusado, regla incumplida. "breve descripcion de como sucedio".
+los warn o baneos ahora se colocaran “/warn o ban, “usuario” incumplimiento de (numero de la regla)(nombre de regla) ejemplo /warn @PapiChiavez incumplimiento #3.7.2 Vocabulario ofensivo.
+
+
+3.1. REPORTES: toda acusacion de falta a una regla, debe ser enviada al chat de reportes con el comando de @/Report “acusado”, regla incumplida. “breve descripcion de como sucedio”.
+3.1.1 TODOS los Reportes tendrán su veredicto a Final de Rol
 
 3.2. Caso Abierto: se retira un warn bajo la aceptacion del usuario con la posibilidad de que pueda recibir 2 warn por incumpliento a su palabra.
 
@@ -32,8 +35,7 @@ ejemplo /warn @PapiChiavez incumplimiento #3.7.2 Vocabulario ofensivo.
 3.7.7. acto MG: realizar un acto de MetaGaming es considerado 1 warn.
 
 3.7.8. Acto PG: realizar un acto de powergaming considerado 1 warn.
-
-3.7.9. karma : insistir un CK hacia otro jugador es un 1 warn y posible CK. 
+3.7.9. karma : insistir un CK hacia otro jugador es un 1 warn y posible CK.
 
 3.7.10. Minimapa: el uso de minimapa esta prohibido, si se consiguen pruebas es un warn.
 
@@ -46,3 +48,5 @@ ejemplo /warn @PapiChiavez incumplimiento #3.7.2 Vocabulario ofensivo.
 3.7.14. Publicidad: realizar publicidad de otros servidores o paginas no solicitadas, es equivalente a un Ban.
 
 3.7.15. Mal uso de canales: se recalca que utilizar mal los canales es equivalente a un Warn.
+
+3.7.16. AntiRol: se confirma que la actitud antiRol es castigada por 1 warn.
