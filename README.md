@@ -50,8 +50,10 @@
 
 1.22. Character Kill CK: Entendamos como CK la eliminacion total de nuestro personaje. sea por reiniciar como otra persona o al recibir una herida mortal en un rol. los administradores o moderadores deben tener conocimiento del CK.
 
-1.23. No forzar ROL: no se debe forzar crear un roleo. ejemplo: explotando vehiculos, causando PK o Ck sin motivos a otros usuarios, entre otros.
+1.23 RK (Revenge Kill) : significa Venganza por Muerte, y pasa que cuando alguien te mata por X motivo (obviamente con rol), tu vuelves a donde te mataron, y cobras venganza
 
-1.24. Comandos Prohibidos: los comandos como everyone, addmoney, o similares, estan prohibidos. solo permitidos para VIP,Moderadores y administradores.
+1.24 No forzar ROL: no se debe forzar crear un roleo. ejemplo: explotando vehiculos, causando PK o Ck sin motivos a otros usuarios, entre otros.
+
+1.25 Comandos Prohibidos: los comandos como everyone, addmoney, o similares, estan prohibidos. solo permitidos para VIP,Moderadores y administradores.
 
 [# PAG2 ROLEPLAY GTA ONLINE #](https://theredbladeclan.github.io/Beta-y-TRBC-RP/PAG2/)
