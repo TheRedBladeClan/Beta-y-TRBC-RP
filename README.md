@@ -33,7 +33,7 @@
 
 1.13. Acoso y Violencia: estan prohibidos todo acto de acoso o actos sexuales dentro del servidor (Discord y GTA Online).
 
-1.14. Realismo: Se lo mas realista posible para el disfrute del RolePLay
+1.14. Realismo: Se lo mas realista posible para el disfrute del Roleplay
 1.15. Historia: realizar una historia para tu personaje y enviarla a un admin o moderador. ni muy larga ni muy breve.
 
 1.16. Radar: No se puede poner la opcion “fuera de radar”.
